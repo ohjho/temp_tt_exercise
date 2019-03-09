@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![tested-on-osx](https://img.shields.io/badge/Tested%20on-OSX-lightgrey.svg)
 
-A simple Supervised Machine Learning Model for Binary Classification!
+A simple Supervised Machine Learning Model for Binary Classification! See the [Jupyter Notebook][exercise.ipynb].
 
 ## To Run this on your machine
 1. Clone this repo:
@@ -20,3 +20,5 @@ $ workon NameOfYourEnv
 ```
 (NameOfYourEnv) $ jupyter notebook
 ```
+
+[url_virtualenv]: https://virtualenvwrapper.readthedocs.io/en/latest/
